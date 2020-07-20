@@ -1,4 +1,5 @@
 # Robotic-Arm
+![alt text](https://github.com/sumit515/Robotic-Arm/blob/master/Pics/DSC_0106_2.JPG?raw=true)
 ## Description:
  *  Articulated Robotic Arm
  *  5 Degree of Freedom
